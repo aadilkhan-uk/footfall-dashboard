@@ -15,4 +15,11 @@ export interface LiveData {
     last15m: number;
     last60m: number;
     sparkline: number[]; // last 60 mins, 1 datapoint per 5 mins, etc.
+    queueRisk: 'Low' | 'Medium' | 'High' | 'Critical';
+}
+
+export interface DailyStats {
+    totalToday: number;
+    peakHour: number; // 0-23
+    avgPerHour: number;
 }

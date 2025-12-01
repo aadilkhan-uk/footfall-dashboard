@@ -44,7 +44,8 @@ export class StatusRetriever implements IStatusRetriever {
             last5m,
             last15m,
             last60m,
-            sparkline
+            sparkline,
+            queueRisk: this.getQueueRisk(events, asOf),
         };
     }
 
@@ -61,5 +62,17 @@ export class StatusRetriever implements IStatusRetriever {
         }
 
         return arr.reverse(); // oldest → newest
+    }
+
+    private getQueueRisk(events: any[], asOf: Date): 'Low' | 'Medium' | 'High' | 'Critical' {
+        const last5m = events.filter(e =>
+            e.direction === 'IN' &&
+            new Date(e.ts_utc) >= new Date(asOf.getTime() - 5 * 60 * 1000)
+        ).length;
+
+        if (last5m < 5) return 'Low';
+        if (last5m < 10) return 'Medium';
+        if (last5m < 15) return 'High';
+        return 'Critical';
     }
 }
