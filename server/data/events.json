@@ -1,0 +1,2305 @@
+[
+    {
+        "id": 1,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T10:02:22Z",
+        "seq": 971
+    },
+    {
+        "id": 2,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T10:04:39Z",
+        "seq": 972
+    },
+    {
+        "id": 3,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T10:06:15Z",
+        "seq": 973
+    },
+    {
+        "id": 4,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T10:08:39Z",
+        "seq": 974
+    },
+    {
+        "id": 5,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T10:10:43Z",
+        "seq": 975
+    },
+    {
+        "id": 6,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T10:12:27Z",
+        "seq": 976
+    },
+    {
+        "id": 7,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T10:14:47Z",
+        "seq": 977
+    },
+    {
+        "id": 8,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T10:17:09Z",
+        "seq": 978
+    },
+    {
+        "id": 9,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T10:19:37Z",
+        "seq": 979
+    },
+    {
+        "id": 10,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T10:21:57Z",
+        "seq": 980
+    },
+    {
+        "id": 11,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T10:23:46Z",
+        "seq": 981
+    },
+    {
+        "id": 12,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T10:25:42Z",
+        "seq": 982
+    },
+    {
+        "id": 13,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T10:27:41Z",
+        "seq": 983
+    },
+    {
+        "id": 14,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T10:29:43Z",
+        "seq": 984
+    },
+    {
+        "id": 15,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T10:31:25Z",
+        "seq": 985
+    },
+    {
+        "id": 16,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T10:33:44Z",
+        "seq": 986
+    },
+    {
+        "id": 17,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T10:35:14Z",
+        "seq": 987
+    },
+    {
+        "id": 18,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T10:36:46Z",
+        "seq": 988
+    },
+    {
+        "id": 19,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T10:39:14Z",
+        "seq": 989
+    },
+    {
+        "id": 20,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T10:40:54Z",
+        "seq": 990
+    },
+    {
+        "id": 21,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T10:43:20Z",
+        "seq": 991
+    },
+    {
+        "id": 22,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T10:45:15Z",
+        "seq": 992
+    },
+    {
+        "id": 23,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T10:46:59Z",
+        "seq": 993
+    },
+    {
+        "id": 24,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T10:48:52Z",
+        "seq": 994
+    },
+    {
+        "id": 25,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T10:51:02Z",
+        "seq": 995
+    },
+    {
+        "id": 26,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T10:52:36Z",
+        "seq": 996
+    },
+    {
+        "id": 27,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T10:54:30Z",
+        "seq": 997
+    },
+    {
+        "id": 28,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T10:56:52Z",
+        "seq": 998
+    },
+    {
+        "id": 29,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T10:59:06Z",
+        "seq": 999
+    },
+    {
+        "id": 30,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:00:12Z",
+        "seq": 1001
+    },
+    {
+        "id": 31,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:00:55Z",
+        "seq": 1002
+    },
+    {
+        "id": 32,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:01:10Z",
+        "seq": 1003
+    },
+    {
+        "id": 33,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:02:01Z",
+        "seq": 1004
+    },
+    {
+        "id": 34,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:02:20Z",
+        "seq": 1005
+    },
+    {
+        "id": 35,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:03:00Z",
+        "seq": 1006
+    },
+    {
+        "id": 36,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:03:42Z",
+        "seq": 1007
+    },
+    {
+        "id": 37,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:03:50Z",
+        "seq": 1008
+    },
+    {
+        "id": 38,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:04:15Z",
+        "seq": 1009
+    },
+    {
+        "id": 39,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:04:30Z",
+        "seq": 1010
+    },
+    {
+        "id": 40,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:05:05Z",
+        "seq": 1011
+    },
+    {
+        "id": 41,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:05:55Z",
+        "seq": 1012
+    },
+    {
+        "id": 42,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:06:10Z",
+        "seq": 1013
+    },
+    {
+        "id": 43,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:06:32Z",
+        "seq": 1014
+    },
+    {
+        "id": 44,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:06:58Z",
+        "seq": 1015
+    },
+    {
+        "id": 45,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:07:20Z",
+        "seq": 1016
+    },
+    {
+        "id": 46,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:07:55Z",
+        "seq": 1017
+    },
+    {
+        "id": 47,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:08:11Z",
+        "seq": 1018
+    },
+    {
+        "id": 48,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:08:45Z",
+        "seq": 1019
+    },
+    {
+        "id": 49,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:09:00Z",
+        "seq": 1020
+    },
+    {
+        "id": 50,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:09:42Z",
+        "seq": 1021
+    },
+    {
+        "id": 51,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:10:05Z",
+        "seq": 1022
+    },
+    {
+        "id": 52,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:10:31Z",
+        "seq": 1023
+    },
+    {
+        "id": 53,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:11:00Z",
+        "seq": 1024
+    },
+    {
+        "id": 54,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:11:40Z",
+        "seq": 1025
+    },
+    {
+        "id": 55,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:12:03Z",
+        "seq": 1026
+    },
+    {
+        "id": 56,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:12:40Z",
+        "seq": 1027
+    },
+    {
+        "id": 57,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:13:05Z",
+        "seq": 1028
+    },
+    {
+        "id": 58,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:13:30Z",
+        "seq": 1029
+    },
+    {
+        "id": 59,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:14:00Z",
+        "seq": 1030
+    },
+    {
+        "id": 60,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:14:38Z",
+        "seq": 1031
+    },
+    {
+        "id": 61,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:14:55Z",
+        "seq": 1032
+    },
+    {
+        "id": 62,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:15:29Z",
+        "seq": 1033
+    },
+    {
+        "id": 63,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:15:55Z",
+        "seq": 1034
+    },
+    {
+        "id": 64,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:16:20Z",
+        "seq": 1035
+    },
+    {
+        "id": 65,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:16:59Z",
+        "seq": 1036
+    },
+    {
+        "id": 66,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:17:30Z",
+        "seq": 1037
+    },
+    {
+        "id": 67,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:17:48Z",
+        "seq": 1038
+    },
+    {
+        "id": 68,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:18:10Z",
+        "seq": 1039
+    },
+    {
+        "id": 69,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:18:40Z",
+        "seq": 1040
+    },
+    {
+        "id": 70,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:19:02Z",
+        "seq": 1041
+    },
+    {
+        "id": 71,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:19:24Z",
+        "seq": 1042
+    },
+    {
+        "id": 72,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:19:50Z",
+        "seq": 1043
+    },
+    {
+        "id": 73,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:20:15Z",
+        "seq": 1044
+    },
+    {
+        "id": 74,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:20:42Z",
+        "seq": 1045
+    },
+    {
+        "id": 75,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:21:10Z",
+        "seq": 1046
+    },
+    {
+        "id": 76,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:21:38Z",
+        "seq": 1047
+    },
+    {
+        "id": 77,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:22:00Z",
+        "seq": 1048
+    },
+    {
+        "id": 78,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:22:25Z",
+        "seq": 1049
+    },
+    {
+        "id": 79,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:22:58Z",
+        "seq": 1050
+    },
+    {
+        "id": 80,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:24:28Z",
+        "seq": 1051
+    },
+    {
+        "id": 81,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:25:41Z",
+        "seq": 1052
+    },
+    {
+        "id": 82,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:26:38Z",
+        "seq": 1053
+    },
+    {
+        "id": 83,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:28:02Z",
+        "seq": 1054
+    },
+    {
+        "id": 84,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:29:19Z",
+        "seq": 1055
+    },
+    {
+        "id": 85,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:30:30Z",
+        "seq": 1056
+    },
+    {
+        "id": 86,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:32:09Z",
+        "seq": 1057
+    },
+    {
+        "id": 87,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:34:04Z",
+        "seq": 1058
+    },
+    {
+        "id": 88,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:35:36Z",
+        "seq": 1059
+    },
+    {
+        "id": 89,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:36:49Z",
+        "seq": 1060
+    },
+    {
+        "id": 90,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:37:45Z",
+        "seq": 1061
+    },
+    {
+        "id": 91,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:38:30Z",
+        "seq": 1062
+    },
+    {
+        "id": 92,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:39:51Z",
+        "seq": 1063
+    },
+    {
+        "id": 93,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:41:14Z",
+        "seq": 1064
+    },
+    {
+        "id": 94,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:42:58Z",
+        "seq": 1065
+    },
+    {
+        "id": 95,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:43:43Z",
+        "seq": 1066
+    },
+    {
+        "id": 96,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:44:47Z",
+        "seq": 1067
+    },
+    {
+        "id": 97,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:46:09Z",
+        "seq": 1068
+    },
+    {
+        "id": 98,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:48:07Z",
+        "seq": 1069
+    },
+    {
+        "id": 99,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:49:37Z",
+        "seq": 1070
+    },
+    {
+        "id": 100,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:51:13Z",
+        "seq": 1071
+    },
+    {
+        "id": 101,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:52:28Z",
+        "seq": 1072
+    },
+    {
+        "id": 102,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:53:38Z",
+        "seq": 1073
+    },
+    {
+        "id": 103,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:54:49Z",
+        "seq": 1074
+    },
+    {
+        "id": 104,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:55:52Z",
+        "seq": 1075
+    },
+    {
+        "id": 105,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T11:57:11Z",
+        "seq": 1076
+    },
+    {
+        "id": 106,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T11:58:50Z",
+        "seq": 1077
+    },
+    {
+        "id": 107,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:00:38Z",
+        "seq": 1078
+    },
+    {
+        "id": 108,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:01:19Z",
+        "seq": 1079
+    },
+    {
+        "id": 109,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:02:13Z",
+        "seq": 1080
+    },
+    {
+        "id": 110,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:02:38Z",
+        "seq": 1081
+    },
+    {
+        "id": 111,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:03:17Z",
+        "seq": 1082
+    },
+    {
+        "id": 112,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:03:42Z",
+        "seq": 1083
+    },
+    {
+        "id": 113,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:04:24Z",
+        "seq": 1084
+    },
+    {
+        "id": 114,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:05:21Z",
+        "seq": 1085
+    },
+    {
+        "id": 115,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:06:05Z",
+        "seq": 1086
+    },
+    {
+        "id": 116,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:06:51Z",
+        "seq": 1087
+    },
+    {
+        "id": 117,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:07:33Z",
+        "seq": 1088
+    },
+    {
+        "id": 118,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:08:16Z",
+        "seq": 1089
+    },
+    {
+        "id": 119,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:08:37Z",
+        "seq": 1090
+    },
+    {
+        "id": 120,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:09:09Z",
+        "seq": 1091
+    },
+    {
+        "id": 121,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:09:51Z",
+        "seq": 1092
+    },
+    {
+        "id": 122,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:10:24Z",
+        "seq": 1093
+    },
+    {
+        "id": 123,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:11:20Z",
+        "seq": 1094
+    },
+    {
+        "id": 124,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:12:04Z",
+        "seq": 1095
+    },
+    {
+        "id": 125,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:12:48Z",
+        "seq": 1096
+    },
+    {
+        "id": 126,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:13:24Z",
+        "seq": 1097
+    },
+    {
+        "id": 127,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:13:49Z",
+        "seq": 1098
+    },
+    {
+        "id": 128,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:14:27Z",
+        "seq": 1099
+    },
+    {
+        "id": 129,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:14:56Z",
+        "seq": 1100
+    },
+    {
+        "id": 130,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:15:17Z",
+        "seq": 1101
+    },
+    {
+        "id": 131,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:16:10Z",
+        "seq": 1102
+    },
+    {
+        "id": 132,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:16:42Z",
+        "seq": 1103
+    },
+    {
+        "id": 133,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:17:36Z",
+        "seq": 1104
+    },
+    {
+        "id": 134,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:18:03Z",
+        "seq": 1105
+    },
+    {
+        "id": 135,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:18:53Z",
+        "seq": 1106
+    },
+    {
+        "id": 136,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:19:46Z",
+        "seq": 1107
+    },
+    {
+        "id": 137,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:20:21Z",
+        "seq": 1108
+    },
+    {
+        "id": 138,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:21:06Z",
+        "seq": 1109
+    },
+    {
+        "id": 139,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:21:38Z",
+        "seq": 1110
+    },
+    {
+        "id": 140,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:21:59Z",
+        "seq": 1111
+    },
+    {
+        "id": 141,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:22:59Z",
+        "seq": 1112
+    },
+    {
+        "id": 142,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:23:19Z",
+        "seq": 1113
+    },
+    {
+        "id": 143,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:23:58Z",
+        "seq": 1114
+    },
+    {
+        "id": 144,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:24:42Z",
+        "seq": 1115
+    },
+    {
+        "id": 145,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:25:37Z",
+        "seq": 1116
+    },
+    {
+        "id": 146,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:26:02Z",
+        "seq": 1117
+    },
+    {
+        "id": 147,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:26:37Z",
+        "seq": 1118
+    },
+    {
+        "id": 148,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:27:26Z",
+        "seq": 1119
+    },
+    {
+        "id": 149,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:28:05Z",
+        "seq": 1120
+    },
+    {
+        "id": 150,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:28:26Z",
+        "seq": 1121
+    },
+    {
+        "id": 151,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:28:50Z",
+        "seq": 1122
+    },
+    {
+        "id": 152,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:29:30Z",
+        "seq": 1123
+    },
+    {
+        "id": 153,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:29:57Z",
+        "seq": 1124
+    },
+    {
+        "id": 154,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:30:48Z",
+        "seq": 1125
+    },
+    {
+        "id": 155,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:31:38Z",
+        "seq": 1126
+    },
+    {
+        "id": 156,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:32:10Z",
+        "seq": 1127
+    },
+    {
+        "id": 157,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:33:02Z",
+        "seq": 1128
+    },
+    {
+        "id": 158,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:33:22Z",
+        "seq": 1129
+    },
+    {
+        "id": 159,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:33:58Z",
+        "seq": 1130
+    },
+    {
+        "id": 160,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:34:37Z",
+        "seq": 1131
+    },
+    {
+        "id": 161,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:35:05Z",
+        "seq": 1132
+    },
+    {
+        "id": 162,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:35:55Z",
+        "seq": 1133
+    },
+    {
+        "id": 163,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:36:22Z",
+        "seq": 1134
+    },
+    {
+        "id": 164,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:37:21Z",
+        "seq": 1135
+    },
+    {
+        "id": 165,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:37:56Z",
+        "seq": 1136
+    },
+    {
+        "id": 166,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:38:37Z",
+        "seq": 1137
+    },
+    {
+        "id": 167,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:39:11Z",
+        "seq": 1138
+    },
+    {
+        "id": 168,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:39:35Z",
+        "seq": 1139
+    },
+    {
+        "id": 169,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:40:04Z",
+        "seq": 1140
+    },
+    {
+        "id": 170,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:40:53Z",
+        "seq": 1141
+    },
+    {
+        "id": 171,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:41:25Z",
+        "seq": 1142
+    },
+    {
+        "id": 172,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:42:23Z",
+        "seq": 1143
+    },
+    {
+        "id": 173,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:43:15Z",
+        "seq": 1144
+    },
+    {
+        "id": 174,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:43:37Z",
+        "seq": 1145
+    },
+    {
+        "id": 175,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:44:30Z",
+        "seq": 1146
+    },
+    {
+        "id": 176,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:45:00Z",
+        "seq": 1147
+    },
+    {
+        "id": 177,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:45:22Z",
+        "seq": 1148
+    },
+    {
+        "id": 178,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:46:19Z",
+        "seq": 1149
+    },
+    {
+        "id": 179,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:47:12Z",
+        "seq": 1150
+    },
+    {
+        "id": 180,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:47:46Z",
+        "seq": 1151
+    },
+    {
+        "id": 181,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:48:14Z",
+        "seq": 1152
+    },
+    {
+        "id": 182,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:49:00Z",
+        "seq": 1153
+    },
+    {
+        "id": 183,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:49:57Z",
+        "seq": 1154
+    },
+    {
+        "id": 184,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:50:22Z",
+        "seq": 1155
+    },
+    {
+        "id": 185,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:51:14Z",
+        "seq": 1156
+    },
+    {
+        "id": 186,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:51:49Z",
+        "seq": 1157
+    },
+    {
+        "id": 187,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:52:28Z",
+        "seq": 1158
+    },
+    {
+        "id": 188,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:52:53Z",
+        "seq": 1159
+    },
+    {
+        "id": 189,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:53:51Z",
+        "seq": 1160
+    },
+    {
+        "id": 190,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:54:30Z",
+        "seq": 1161
+    },
+    {
+        "id": 191,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:55:11Z",
+        "seq": 1162
+    },
+    {
+        "id": 192,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:55:49Z",
+        "seq": 1163
+    },
+    {
+        "id": 193,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:56:10Z",
+        "seq": 1164
+    },
+    {
+        "id": 194,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:56:35Z",
+        "seq": 1165
+    },
+    {
+        "id": 195,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:57:18Z",
+        "seq": 1166
+    },
+    {
+        "id": 196,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T12:58:02Z",
+        "seq": 1167
+    },
+    {
+        "id": 197,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:58:55Z",
+        "seq": 1168
+    },
+    {
+        "id": 198,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T12:59:51Z",
+        "seq": 1169
+    },
+    {
+        "id": 199,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:00:22Z",
+        "seq": 1170
+    },
+    {
+        "id": 200,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:00:55Z",
+        "seq": 1171
+    },
+    {
+        "id": 201,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:01:50Z",
+        "seq": 1172
+    },
+    {
+        "id": 202,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:02:33Z",
+        "seq": 1173
+    },
+    {
+        "id": 203,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:02:58Z",
+        "seq": 1174
+    },
+    {
+        "id": 204,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:03:53Z",
+        "seq": 1175
+    },
+    {
+        "id": 205,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:04:15Z",
+        "seq": 1176
+    },
+    {
+        "id": 206,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:05:04Z",
+        "seq": 1177
+    },
+    {
+        "id": 207,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:05:50Z",
+        "seq": 1178
+    },
+    {
+        "id": 208,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:06:38Z",
+        "seq": 1179
+    },
+    {
+        "id": 209,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:06:59Z",
+        "seq": 1180
+    },
+    {
+        "id": 210,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:07:57Z",
+        "seq": 1181
+    },
+    {
+        "id": 211,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:08:17Z",
+        "seq": 1182
+    },
+    {
+        "id": 212,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:08:49Z",
+        "seq": 1183
+    },
+    {
+        "id": 213,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:09:18Z",
+        "seq": 1184
+    },
+    {
+        "id": 214,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:09:57Z",
+        "seq": 1185
+    },
+    {
+        "id": 215,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:10:38Z",
+        "seq": 1186
+    },
+    {
+        "id": 216,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:11:24Z",
+        "seq": 1187
+    },
+    {
+        "id": 217,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:12:23Z",
+        "seq": 1188
+    },
+    {
+        "id": 218,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:13:04Z",
+        "seq": 1189
+    },
+    {
+        "id": 219,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:14:04Z",
+        "seq": 1190
+    },
+    {
+        "id": 220,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:14:41Z",
+        "seq": 1191
+    },
+    {
+        "id": 221,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:15:24Z",
+        "seq": 1192
+    },
+    {
+        "id": 222,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:16:08Z",
+        "seq": 1193
+    },
+    {
+        "id": 223,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:17:03Z",
+        "seq": 1194
+    },
+    {
+        "id": 224,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:17:35Z",
+        "seq": 1195
+    },
+    {
+        "id": 225,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:18:30Z",
+        "seq": 1196
+    },
+    {
+        "id": 226,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:19:26Z",
+        "seq": 1197
+    },
+    {
+        "id": 227,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:20:08Z",
+        "seq": 1198
+    },
+    {
+        "id": 228,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:20:36Z",
+        "seq": 1199
+    },
+    {
+        "id": 229,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:21:01Z",
+        "seq": 1200
+    },
+    {
+        "id": 230,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:21:47Z",
+        "seq": 1201
+    },
+    {
+        "id": 231,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:22:07Z",
+        "seq": 1202
+    },
+    {
+        "id": 232,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:22:58Z",
+        "seq": 1203
+    },
+    {
+        "id": 233,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:23:29Z",
+        "seq": 1204
+    },
+    {
+        "id": 234,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:23:59Z",
+        "seq": 1205
+    },
+    {
+        "id": 235,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:24:39Z",
+        "seq": 1206
+    },
+    {
+        "id": 236,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:25:05Z",
+        "seq": 1207
+    },
+    {
+        "id": 237,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:25:53Z",
+        "seq": 1208
+    },
+    {
+        "id": 238,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:26:46Z",
+        "seq": 1209
+    },
+    {
+        "id": 239,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:27:39Z",
+        "seq": 1210
+    },
+    {
+        "id": 240,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:28:24Z",
+        "seq": 1211
+    },
+    {
+        "id": 241,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:28:47Z",
+        "seq": 1212
+    },
+    {
+        "id": 242,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:29:30Z",
+        "seq": 1213
+    },
+    {
+        "id": 243,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:30:16Z",
+        "seq": 1214
+    },
+    {
+        "id": 244,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:31:04Z",
+        "seq": 1215
+    },
+    {
+        "id": 245,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:31:37Z",
+        "seq": 1216
+    },
+    {
+        "id": 246,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:31:58Z",
+        "seq": 1217
+    },
+    {
+        "id": 247,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:32:36Z",
+        "seq": 1218
+    },
+    {
+        "id": 248,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:33:22Z",
+        "seq": 1219
+    },
+    {
+        "id": 249,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:34:18Z",
+        "seq": 1220
+    },
+    {
+        "id": 250,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:35:11Z",
+        "seq": 1221
+    },
+    {
+        "id": 251,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:35:59Z",
+        "seq": 1222
+    },
+    {
+        "id": 252,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:36:25Z",
+        "seq": 1223
+    },
+    {
+        "id": 253,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:37:07Z",
+        "seq": 1224
+    },
+    {
+        "id": 254,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:37:30Z",
+        "seq": 1225
+    },
+    {
+        "id": 255,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:38:02Z",
+        "seq": 1226
+    },
+    {
+        "id": 256,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:38:29Z",
+        "seq": 1227
+    },
+    {
+        "id": 257,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:39:12Z",
+        "seq": 1228
+    },
+    {
+        "id": 258,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:39:36Z",
+        "seq": 1229
+    },
+    {
+        "id": 259,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:40:16Z",
+        "seq": 1230
+    },
+    {
+        "id": 260,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:40:49Z",
+        "seq": 1231
+    },
+    {
+        "id": 261,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:41:10Z",
+        "seq": 1232
+    },
+    {
+        "id": 262,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:42:03Z",
+        "seq": 1233
+    },
+    {
+        "id": 263,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:42:44Z",
+        "seq": 1234
+    },
+    {
+        "id": 264,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:43:38Z",
+        "seq": 1235
+    },
+    {
+        "id": 265,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:44:10Z",
+        "seq": 1236
+    },
+    {
+        "id": 266,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:45:02Z",
+        "seq": 1237
+    },
+    {
+        "id": 267,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:45:34Z",
+        "seq": 1238
+    },
+    {
+        "id": 268,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:46:01Z",
+        "seq": 1239
+    },
+    {
+        "id": 269,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:46:21Z",
+        "seq": 1240
+    },
+    {
+        "id": 270,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:46:51Z",
+        "seq": 1241
+    },
+    {
+        "id": 271,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:47:18Z",
+        "seq": 1242
+    },
+    {
+        "id": 272,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:47:39Z",
+        "seq": 1243
+    },
+    {
+        "id": 273,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:48:17Z",
+        "seq": 1244
+    },
+    {
+        "id": 274,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:48:41Z",
+        "seq": 1245
+    },
+    {
+        "id": 275,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:49:16Z",
+        "seq": 1246
+    },
+    {
+        "id": 276,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:50:10Z",
+        "seq": 1247
+    },
+    {
+        "id": 277,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:51:07Z",
+        "seq": 1248
+    },
+    {
+        "id": 278,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:52:02Z",
+        "seq": 1249
+    },
+    {
+        "id": 279,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:52:24Z",
+        "seq": 1250
+    },
+    {
+        "id": 280,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:52:46Z",
+        "seq": 1251
+    },
+    {
+        "id": 281,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:53:18Z",
+        "seq": 1252
+    },
+    {
+        "id": 282,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:53:50Z",
+        "seq": 1253
+    },
+    {
+        "id": 283,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:54:15Z",
+        "seq": 1254
+    },
+    {
+        "id": 284,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:55:13Z",
+        "seq": 1255
+    },
+    {
+        "id": 285,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:55:48Z",
+        "seq": 1256
+    },
+    {
+        "id": 286,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:56:45Z",
+        "seq": 1257
+    },
+    {
+        "id": 287,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:57:26Z",
+        "seq": 1258
+    },
+    {
+        "id": 288,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:58:16Z",
+        "seq": 1259
+    },
+    {
+        "id": 289,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T13:58:47Z",
+        "seq": 1260
+    },
+    {
+        "id": 290,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:59:10Z",
+        "seq": 1261
+    },
+    {
+        "id": 291,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T13:59:53Z",
+        "seq": 1262
+    },
+    {
+        "id": 292,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T14:00:23Z",
+        "seq": 1263
+    },
+    {
+        "id": 293,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T14:01:44Z",
+        "seq": 1264
+    },
+    {
+        "id": 294,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T14:03:10Z",
+        "seq": 1265
+    },
+    {
+        "id": 295,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T14:04:15Z",
+        "seq": 1266
+    },
+    {
+        "id": 296,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T14:07:11Z",
+        "seq": 1267
+    },
+    {
+        "id": 297,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T14:10:11Z",
+        "seq": 1268
+    },
+    {
+        "id": 298,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T14:11:49Z",
+        "seq": 1269
+    },
+    {
+        "id": 299,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T14:13:41Z",
+        "seq": 1270
+    },
+    {
+        "id": 300,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T14:16:07Z",
+        "seq": 1271
+    },
+    {
+        "id": 301,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T14:17:08Z",
+        "seq": 1272
+    },
+    {
+        "id": 302,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T14:19:19Z",
+        "seq": 1273
+    },
+    {
+        "id": 303,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T14:20:36Z",
+        "seq": 1274
+    },
+    {
+        "id": 304,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T14:23:18Z",
+        "seq": 1275
+    },
+    {
+        "id": 305,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T14:24:36Z",
+        "seq": 1276
+    },
+    {
+        "id": 306,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T14:25:51Z",
+        "seq": 1277
+    },
+    {
+        "id": 307,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T14:28:12Z",
+        "seq": 1278
+    },
+    {
+        "id": 308,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T14:30:09Z",
+        "seq": 1279
+    },
+    {
+        "id": 309,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T14:31:31Z",
+        "seq": 1280
+    },
+    {
+        "id": 310,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T14:33:59Z",
+        "seq": 1281
+    },
+    {
+        "id": 311,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T14:36:46Z",
+        "seq": 1282
+    },
+    {
+        "id": 312,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T14:38:09Z",
+        "seq": 1283
+    },
+    {
+        "id": 313,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T14:40:27Z",
+        "seq": 1284
+    },
+    {
+        "id": 314,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T14:42:21Z",
+        "seq": 1285
+    },
+    {
+        "id": 315,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T14:43:39Z",
+        "seq": 1286
+    },
+    {
+        "id": 316,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T14:46:15Z",
+        "seq": 1287
+    },
+    {
+        "id": 317,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T14:49:13Z",
+        "seq": 1288
+    },
+    {
+        "id": 318,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T14:51:59Z",
+        "seq": 1289
+    },
+    {
+        "id": 319,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T14:53:45Z",
+        "seq": 1290
+    },
+    {
+        "id": 320,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T14:55:13Z",
+        "seq": 1291
+    },
+    {
+        "id": 321,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T14:57:17Z",
+        "seq": 1292
+    },
+    {
+        "id": 322,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T14:59:24Z",
+        "seq": 1293
+    },
+    {
+        "id": 323,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T15:00:30Z",
+        "seq": 1294
+    },
+    {
+        "id": 324,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T15:02:14Z",
+        "seq": 1295
+    },
+    {
+        "id": 325,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T15:04:46Z",
+        "seq": 1296
+    },
+    {
+        "id": 326,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T15:07:20Z",
+        "seq": 1297
+    },
+    {
+        "id": 327,
+        "sensor_id": "store-oxford-1",
+        "direction": "IN",
+        "ts_utc": "2025-11-27T15:08:52Z",
+        "seq": 1298
+    },
+    {
+        "id": 328,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T15:11:01Z",
+        "seq": 1299
+    },
+    {
+        "id": 329,
+        "sensor_id": "store-oxford-1",
+        "direction": "OUT",
+        "ts_utc": "2025-11-27T15:12:38Z",
+        "seq": 1300
+    }
+]
